@@ -3,7 +3,7 @@
 <h1> Introdução ao Projeto 
 
 O jogo teve uma base em um mangá que eu li e entre jogos que joguei, o jogo foi criado com base em múltiplos centros de interesse. 
-Narrativa Interativa, escolhas do Jogador, sistema de Inventário mas ainda faltando utilização para o inventário, encontros e combate,  
+Narrativa Interativa, escolhas do Jogador, sistema de Inventário mas ainda faltando utilização para o inventário, encontros e combate.
 
 <h1> Estrutura Narrativa</h1>
 
