@@ -1,6 +1,6 @@
 <h1> TextBasedGame <h1>
 
-<h1> Introdução ao Projeto 
+<h1> Introdução ao Projeto </h1>
 
 O jogo teve uma base em um mangá que eu li e entre jogos que joguei, o jogo foi criado com base em múltiplos centros de interesse. 
 Narrativa Interativa, escolhas do Jogador, sistema de Inventário mas ainda faltando utilização para o inventário, encontros e combate.
