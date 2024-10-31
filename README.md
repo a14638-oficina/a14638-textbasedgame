@@ -62,7 +62,7 @@ Interação com Itens,
 Estratégia de Combate. 
 Tratamento de Entradas 
 
-<h1> Normalização </h1>: A entrada do jogador é convertida para minúsculas para evitar problemas com diferentes formatos de digitação. 
+<h1> Normalização </h1> A entrada do jogador é convertida para minúsculas para evitar problemas com diferentes formatos de digitação. 
 Desafio: Gerenciamento de Entradas do Usuário  
 Um dos principais desafios ao recolher as entradas do jogador é garantir que as respostas sejam válidas e que o jogador não insira comandos inesperados ou errados para não dar erros inesperados. 
 À medida que o jogo se torna mais complexo, o código pode ficar confuso e difícil de manter sem uma estrutura clara. 
